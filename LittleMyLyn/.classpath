@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/lab3/plug-in 卓班/Tool/eclipse-jee-mars-1-win32-x86_64/eclipse/plugins/org.eclipse.core.resources_3.10.1.v20150725-1910.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Desktop/lab3/plug-in 卓班/Tool/eclipse-jee-mars-1-win32-x86_64/eclipse/plugins/org.eclipse.ui.ide_3.11.0.v20150825-2158.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
